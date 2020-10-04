@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="udpDatagrammChannelClient:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daac6985-e274-4cc2-8560-7bd30bc39196" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/udpDatagrammChannelClient_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.0.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.0.0.txt.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/udpDatagrammChannelClient_jar/udpDatagrammChannelClient.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/Timer/MyThreadForCheckServerConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/command/Command.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/human/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/human/Coordinates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/human/HumanBeing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/human/Mood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/human/WeaponType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/log.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Filler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Registration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/udpDatagrammChannelClient/main/Serializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timer/MyThreadForCheckServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/human/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/human/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/human/HumanBeing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/human/Mood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/human/WeaponType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Filler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Serializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udpDatagrammChannelClient.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bGiTzNAaSrzOrkpy2J8kTuW12k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../udpDatagramChannelServerNew" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="udpDatagrammChannelClient" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daac6985-e274-4cc2-8560-7bd30bc39196" name="Default Changelist" comment="" />
+      <created>1588264842235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588264842235</updated>
+      <workItem from="1588264845931" duration="2916000" />
+      <workItem from="1588333804277" duration="62000" />
+      <workItem from="1588333879476" duration="13947000" />
+      <workItem from="1588361948721" duration="9727000" />
+      <workItem from="1588447147097" duration="3106000" />
+      <workItem from="1588538895698" duration="4039000" />
+      <workItem from="1588624878297" duration="4038000" />
+      <workItem from="1588675226413" duration="9761000" />
+      <workItem from="1588968373385" duration="718000" />
+      <workItem from="1589057663299" duration="2001000" />
+      <workItem from="1589106627454" duration="7727000" />
+      <workItem from="1589201387821" duration="897000" />
+      <workItem from="1589228573071" duration="4650000" />
+      <workItem from="1589295146156" duration="12000" />
+      <workItem from="1589303068151" duration="6213000" />
+      <workItem from="1589814271477" duration="1239000" />
+      <workItem from="1589820636162" duration="24000" />
+      <workItem from="1589822261251" duration="1824000" />
+      <workItem from="1589899550350" duration="153000" />
+      <workItem from="1589900623918" duration="7608000" />
+      <workItem from="1589986127824" duration="5878000" />
+      <workItem from="1590057546952" duration="3853000" />
+      <workItem from="1590065976304" duration="2911000" />
+      <workItem from="1590088626204" duration="6235000" />
+      <workItem from="1590124607578" duration="8648000" />
+      <workItem from="1590915244155" duration="12372000" />
+      <workItem from="1590989435110" duration="1326000" />
+      <workItem from="1591625386749" duration="1679000" />
+      <workItem from="1591632027909" duration="9658000" />
+      <workItem from="1591778522649" duration="8218000" />
+      <workItem from="1591876415915" duration="1231000" />
+      <workItem from="1592213860621" duration="11227000" />
+      <workItem from="1592319949485" duration="2457000" />
+      <workItem from="1592402428836" duration="1883000" />
+      <workItem from="1592406436379" duration="3204000" />
+      <workItem from="1592649280047" duration="8281000" />
+      <workItem from="1592675240856" duration="1501000" />
+      <workItem from="1592733435967" duration="3940000" />
+      <workItem from="1592740974949" duration="876000" />
+      <workItem from="1592741964464" duration="11304000" />
+      <workItem from="1592821461064" duration="4751000" />
+      <workItem from="1592841587153" duration="8123000" />
+      <workItem from="1592899043100" duration="9614000" />
+      <workItem from="1592989170531" duration="6350000" />
+      <workItem from="1593070405164" duration="1054000" />
+      <workItem from="1593072908601" duration="607000" />
+      <workItem from="1593079836220" duration="1491000" />
+      <workItem from="1593172509693" duration="3911000" />
+      <workItem from="1593356254156" duration="3475000" />
+      <workItem from="1593509584345" duration="8552000" />
+      <workItem from="1593592721594" duration="1204000" />
+      <workItem from="1596463626750" duration="174000" />
+      <workItem from="1601808861851" duration="1155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="94" key="FileChooserDialogImpl" timestamp="1601808872096">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601808872096" />
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom" timestamp="1596463801074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596463801074" />
+    <state width="1237" height="149" key="GridCell.Tab.0.center" timestamp="1596463801074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596463801074" />
+    <state width="1237" height="149" key="GridCell.Tab.0.left" timestamp="1596463801074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596463801074" />
+    <state width="1237" height="149" key="GridCell.Tab.0.right" timestamp="1596463801074">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596463801074" />
+    <state x="336" y="163" key="com.intellij.ide.util.TipDialog" timestamp="1593592735795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="163" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1593592735795" />
+    <state x="181" y="0" key="new project wizard" timestamp="1593176997913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1593176997913" />
+  </component>
+</project>

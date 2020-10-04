@@ -1,0 +1,358 @@
+мая 19, 2020 10:42:12 PM main.Client run
+INFO: отправил
+мая 19, 2020 10:42:12 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 10:42:35 PM main.Client run
+INFO: отправил
+мая 19, 2020 10:42:35 PM main.Client run
+INFO: Команда exit выполнена
+мая 19, 2020 11:42:52 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:42:52 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:43:48 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:43:49 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:46:40 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:46:40 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:47:12 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:47:12 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:47:55 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:47:55 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:47:59 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:49:37 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:49:37 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:50:05 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:51:44 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:56:00 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:56:00 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 19, 2020 11:56:08 PM main.Client run
+INFO: отправил
+мая 19, 2020 11:56:08 PM main.Client run
+INFO: Команда exit выполнена
+мая 20, 2020 5:49:10 PM main.Client run
+INFO: отправил
+мая 20, 2020 5:49:11 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 20, 2020 5:49:32 PM main.Client run
+INFO: отправил
+мая 20, 2020 5:49:32 PM main.Client run
+INFO: Команда remove_by_id выполнена
+мая 20, 2020 5:49:36 PM main.Client run
+INFO: отправил
+мая 20, 2020 5:49:36 PM main.Client run
+INFO: Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 20, 2020 5:49:45 PM main.Client run
+INFO: отправил
+мая 20, 2020 5:49:45 PM main.Client run
+INFO: Команда remove_by_id выполнена
+мая 20, 2020 5:49:49 PM main.Client run
+INFO: отправил
+мая 20, 2020 5:49:49 PM main.Client run
+INFO: Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 20, 2020 5:52:35 PM main.Client run
+INFO: отправил
+мая 20, 2020 6:12:21 PM main.Client run
+INFO: отправил
+мая 20, 2020 6:13:03 PM main.Client run
+INFO: отправил
+мая 20, 2020 6:13:03 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 20, 2020 11:36:09 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:39:46 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:40:43 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:40:44 PM main.Client run
+WARNING: Сервер недоступен!
+мая 20, 2020 11:41:24 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:42:26 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:44:23 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:45:06 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:47:10 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:49:00 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:49:10 PM main.Client run
+WARNING: Сервер недоступен!
+мая 20, 2020 11:50:05 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:51:57 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:52:02 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 20, 2020 11:52:28 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:53:28 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:53:34 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 20, 2020 11:53:55 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:54:04 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:54:39 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:54:44 PM main.Client run
+INFO: Команда shpw выполнена
+мая 20, 2020 11:54:56 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:55:01 PM main.Client run
+INFO: Команда  выполнена
+мая 20, 2020 11:55:15 PM main.Client run
+INFO: отправил
+мая 20, 2020 11:55:20 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 12:07:13 AM main.Client run
+INFO: отправил
+мая 21, 2020 12:09:00 AM main.Client run
+INFO: отправил
+мая 21, 2020 12:09:34 AM main.Client run
+INFO: отправил
+мая 21, 2020 12:09:39 AM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:49:39 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:50:55 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:51:00 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:51:47 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:51:53 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:52:21 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:52:26 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:52:45 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:52:48 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 1:53:05 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:53:37 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:53:41 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 1:54:02 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:54:51 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:54:54 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 1:55:19 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:55:22 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 1:55:35 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:55:38 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:56:10 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:57:07 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:57:10 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:57:31 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:57:35 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 1:58:01 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:58:04 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:59:09 PM main.Client run
+INFO: отправил
+мая 21, 2020 1:59:12 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 1:59:57 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:00:00 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 2:00:17 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:00:20 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 2:00:35 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:00:38 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 2:00:55 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:04:30 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:04:33 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 2:04:59 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:05:25 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:10:17 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:11:19 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:11:22 PM main.Client run
+WARNING: Сервер недоступен!
+мая 21, 2020 2:11:38 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:11:41 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 2:12:13 PM main.Client run
+INFO: отправил
+мая 21, 2020 2:12:16 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда show выполнена
+мая 21, 2020 2:12:27 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:01:20 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:01:20 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда execute_script выполнена
+мая 21, 2020 4:01:47 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:01:47 PM main.Client run
+INFO: Скрипт содержит рекурсию!
+Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:02:36 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:02:36 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:03:39 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:03:39 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:05:07 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:05:07 PM main.Client run
+INFO: Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Элемент коллекции: Никита, Id: 1, Speed: 888
+Элемент коллекции: Леха, Id: 2, Speed: 888
+Команда execute_script выполнена
+мая 21, 2020 4:06:24 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:06:24 PM main.Client run
+INFO: Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:07:51 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:07:51 PM main.Client run
+INFO: Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:09:05 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:09:05 PM main.Client run
+INFO: Команда execute_script выполнена
+мая 21, 2020 4:11:38 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:11:38 PM main.Client run
+INFO: Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:12:12 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:12:13 PM main.Client run
+INFO: Скрипт содержит рекурсию!
+Команда execute_script выполнена
+мая 21, 2020 4:13:18 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:13:18 PM main.Client run
+INFO: Тип коллекции: HumanBeing
+Размер: 2Тип коллекции: HumanBeing
+Размер: 2Тип коллекции: HumanBeing
+Размер: 2Команда execute_script выполнена
+мая 21, 2020 4:25:19 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:25:19 PM main.Client run
+INFO: Такого файла не существует
+Тип коллекции: HumanBeing
+Размер: 2Тип коллекции: HumanBeing
+Размер: 2Команда execute_script выполнена
+мая 21, 2020 4:28:18 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:28:19 PM main.Client run
+INFO: Файла с именем E:\\aa.txtне существует
+Тип коллекции: HumanBeing
+Размер: 2Тип коллекции: HumanBeing
+Размер: 2Команда execute_script выполнена
+мая 21, 2020 4:31:25 PM main.Client run
+INFO: отправил
+мая 21, 2020 4:31:26 PM main.Client run
+INFO: Файла с именем E:\\aa.txt не существует
+Тип коллекции: HumanBeing
+Размер: 2
+Тип коллекции: HumanBeing
+Размер: 2
+Команда execute_script выполнена
